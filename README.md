@@ -1,2 +1,2 @@
 # GitNow
-for test the point of git
+my purpose is for test the point of git
